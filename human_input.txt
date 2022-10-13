@@ -1,0 +1,5 @@
+search_puzzle.txt
+happy
+error
+hope
+exit 
